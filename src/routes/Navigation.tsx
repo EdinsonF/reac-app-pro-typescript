@@ -1,4 +1,11 @@
-import { BrowserRouter, Routes, Route, Link, NavLink, Navigate } from 'react-router-dom';
+import { 
+  BrowserRouter, 
+  Routes, 
+  Route, 
+  Link, 
+  NavLink, 
+  Navigate 
+} from 'react-router-dom';
 
 import logo from '../logo.svg';
 
