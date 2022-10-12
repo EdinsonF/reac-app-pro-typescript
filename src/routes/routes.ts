@@ -20,9 +20,9 @@ const LazyLayout = lazy(
 
 export const routes: Route[] = [
   {
-    to: '/lazyload/',
+    to: '/lazyload',
     path: '/lazyload/*',
-    name: 'Layout',
+    name: 'LazyLoad Nested (components)',
     Component: LazyLayout 
   },
   {
